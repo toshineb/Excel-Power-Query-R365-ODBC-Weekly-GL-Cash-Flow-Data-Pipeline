@@ -192,6 +192,3 @@ This work sample does not include real R365 credentials or live client data. It 
 - Target output schema
 - Sample expected output
 - Four historical weeks for reconciliation
-
-## Reviewer Note
-This package is intended to show that I can handle the requested R365 Power Query data-pipe work: connection design, parameter handling, filtering, mapping, output formatting, overwrite refresh behavior, validation, troubleshooting documentation, and user training.
